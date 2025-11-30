@@ -31,8 +31,9 @@ To evaluate the store layout trial, I selected control stores based on **sales c
 * **Trial Store 86:** ✅ SUCCESS (Significant uplift vs Control Store 155)
 * **Trial Store 88:** ❌ No Impact
 
-![Trial Performance](Visualizations/your_trial_graph_name.png)
-*(Replace with your actual graph filename)*
+![Trial Performance](77VS233.png)
+![Trial Performance](86VS155.png)
+![Trial Performance](88VS237.png)
 
 ---
 
