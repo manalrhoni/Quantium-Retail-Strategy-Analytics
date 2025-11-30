@@ -20,8 +20,7 @@ This project simulates a real-world data analytics engagement for a major superm
 * **Insight:** Despite smaller basket sizes, this segment is willing to pay a **premium price per unit** compared to budget families.
 * **Proof:** T-test results confirmed a statistically significant difference in unit price (p < 0.05).
 
-![Sales by Segment](Visualizations/your_sales_graph_name.png)
-*(Replace with your actual graph filename)*
+![Sales by Segment](TotalSales.png)
 
 ---
 
